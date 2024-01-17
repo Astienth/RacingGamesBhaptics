@@ -28,7 +28,7 @@ Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 
 ### 2. Launch the one of the supported  games and select the game on Racing Game Bhaptics
 
-<img src="https://i.ibb.co/tLJwPQF/race2.jpg" alt="race2" border="0" />
+<img src="https://ibb.co/8bf3Dk1" alt="race2" border="0" />
 
 ### 3. Click on the Start button and make sure bhaptics players status is green
 
