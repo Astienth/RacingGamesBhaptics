@@ -1,5 +1,4 @@
 # RacingGamesBhaptics
-as
 ## About the project ?
 
 RacingGamesBhaptics is based on @NotBlue Project-Cars-Bhaptics.
@@ -16,18 +15,18 @@ bHaptics devices supported:
 - Feet (Thanks to Nickbond from bHaptics discord)
 - Tactvisor (Thanks to Nickbond from bHaptics discord)
 
-## How to use
+## Instructions
 
-Download the setup exe available below <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">"racingbhaptics.Setup.0.0.1.exe"</a> <br/>
-Install and launch the application<br/>
+### 1. Downloading and launching the file
+Download and launch the <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">"racingbhaptics.Setup.0.0.1.exe"</a> setup file <br/>
 Launch the bhaptic player<br/>
 
 
-### 1. Select a game
-
+### 2. Launch the players
+Launch Racing Game Bhaptics and Bhaptics Player. 
 <img src="https://i.ibb.co/RPNsKhV/race1.jpg" alt="race1" border="0" />
 
-### 2. Check for game specific configuration
+### 2. Launch the one of the supported  games and select the game on Racing Game Bhaptics
 
 <img src="https://i.ibb.co/tLJwPQF/race2.jpg" alt="race2" border="0" />
 
