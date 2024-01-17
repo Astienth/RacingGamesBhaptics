@@ -18,7 +18,7 @@ bHaptics devices supported:
 ## Instructions
 
 ### 1. Downloading and launching the file
-Download and launch the <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">"setup file"</a>.<br/>
+Download and launch the <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">setup file</a>.<br/>
 Launch the bhaptic player.<br/>
 
 
