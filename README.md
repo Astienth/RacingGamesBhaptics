@@ -23,7 +23,7 @@ Launch the bhaptic player<br/>
 
 
 ### 2. Launch the players
-Launch Racing Game Bhaptics and Bhaptics Player. 
+Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 <img src="https://i.ibb.co/RPNsKhV/race1.jpg" alt="race1" border="0" />
 
 ### 2. Launch the one of the supported  games and select the game on Racing Game Bhaptics
