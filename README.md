@@ -37,5 +37,5 @@ Launch the one of the supported games and select the game on Racing Game Bhaptic
 
 ### 5. Click on the Start button
 Click on the start button. Wait until the player says "Running and Ready to go".<br/>
-<img src="RacingbHaptics.gif" alt="RacingbHaptics" border="0" />
+<img src="RacingBhaptics.gif" alt="RacingbHaptics" border="0" />
 
