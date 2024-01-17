@@ -18,15 +18,15 @@ bHaptics devices supported:
 ## Instructions
 
 ### 1. Downloading and launching the file
-Download and launch the <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">"racingbhaptics.Setup.0.0.1.exe"</a> setup file <br/>
-Launch the bhaptic player<br/>
+Download and launch the <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">"setup file"</a>.<br/>
+Launch the bhaptic player.<br/>
 
 
 ### 2. Launch the players
 Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 
 ### 2. Launch the one of the supported  games and select the game on Racing Game Bhaptics
-Launch the one of the supported  games and select the game on Racing Game Bhaptics<br/>
+Launch the one of the supported  games and select the game on Racing Game Bhaptics.<br/>
 ![](https://ibb.co/8bf3Dk1)
 
 ### 3. Click on the Start button
