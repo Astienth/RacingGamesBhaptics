@@ -31,5 +31,5 @@ Launch the one of the supported  games and select the game on Racing Game Bhapti
 
 ### 3. Click on the Start button
 Click on the start button. Wait until the player says Running and Ready to go.<br/>
-<img src="https://ibb.co/44GVnGM" alt="RacingbHaptics" border="0" />
+<img src="RacingbHaptics.gif" alt="RacingbHaptics" border="0" />
 
