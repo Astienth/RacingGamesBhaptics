@@ -27,7 +27,7 @@ Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 
 
 ### 3. Check the the game-specific configurations
-Depending on the game, you may have to edit the settings before the player works. Follow the instructions provided in the player. 
+Depending on the game, you may have to edit the settings before the player works. Follow the instructions provided in the player. <br/>
 <img src="RacingBhaptics3.gif" alt="RacingbHaptics3" border="0" />
 
 ### 4. Launch the one of the supported  games and select the game on Racing Game Bhaptics
