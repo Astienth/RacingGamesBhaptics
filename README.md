@@ -27,7 +27,7 @@ Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 
 ### 2. Launch the one of the supported  games and select the game on Racing Game Bhaptics
 Launch the one of the supported  games and select the game on Racing Game Bhaptics.<br/>
-![](https://ibb.co/8bf3Dk1)
+<img src = "RacingBhaptics2.gif" alt="RacingbHaptics2" border="0" />
 
 ### 3. Click on the Start button
 Click on the start button. Wait until the player says Running and Ready to go.<br/>
