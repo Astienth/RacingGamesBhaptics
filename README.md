@@ -27,10 +27,10 @@ Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 <img src="https://i.ibb.co/RPNsKhV/race1.jpg" alt="race1" border="0" />
 
 ### 2. Launch the one of the supported  games and select the game on Racing Game Bhaptics
+Launch the one of the supported  games and select the game on Racing Game Bhaptics<br/>
+<img src="https://ibb.co/8bf3Dk1" alt="RacingbHaptics2" border="0" />
 
-<img src="https://ibb.co/8bf3Dk1" alt="race2" border="0" />
-
-### 3. Click on the Start button and make sure bhaptics players status is green
-
-<img src="https://i.ibb.co/9btKsfT/race3.jpg" alt="race3" border="0" />
+### 3. Click on the Start button
+Click on the start button. Wait until the player says Running and Ready to go.<br/>
+<img src="https://ibb.co/44GVnGM" alt="RacingbHaptics" border="0" />
 
