@@ -15,6 +15,17 @@ bHaptics devices supported:
 - Feet (Thanks to Nickbond from bHaptics discord)
 - Tactvisor (Thanks to Nickbond from bHaptics discord)
 
+Games Supported: 
+- Assetto Corsa
+- Assetto Corsa Competizione
+- Automobilista 2
+- DiRT Rally 2.0
+- Project CARS 1
+- Project CARS 2
+- Project CARS 3
+- rFactor 2
+- RaceRoom Racing Experience
+
 ## Instructions
 
 ### 1. Downloading and launching the file
