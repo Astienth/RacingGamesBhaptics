@@ -1,5 +1,4 @@
 # RacingGamesBhaptics
-
 ## About the project ?
 
 RacingGamesBhaptics is based on @NotBlue Project-Cars-Bhaptics.
@@ -16,22 +15,38 @@ bHaptics devices supported:
 - Feet (Thanks to Nickbond from bHaptics discord)
 - Tactvisor (Thanks to Nickbond from bHaptics discord)
 
-## How to use
+Games Supported: 
+- Assetto Corsa
+- Assetto Corsa Competizione
+- Automobilista 2
+- DiRT Rally 2.0
+- Project CARS 1
+- Project CARS 2
+- Project CARS 3
+- rFactor 2
+- RaceRoom Racing Experience
 
-Download the setup exe available below <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">"racingbhaptics.Setup.0.0.1.exe"</a> <br/>
-Install and launch the application<br/>
-Launch the bhaptic player<br/>
+## Instructions
+
+### 1. Downloading and launching the file
+Download and launch the <a href="https://github.com/Astienth/RacingGamesBhaptics/releases/download/0.0.1/racingbhaptics.Setup.0.0.1.exe">setup file</a>.<br/>
 
 
-### 1. Select a game
+### 2. Launch the players
+Launch Racing Game Bhaptics and Bhaptics Player. <br/>
 
-<img src="https://i.ibb.co/RPNsKhV/race1.jpg" alt="race1" border="0" />
 
-### 2. Check for game specific configuration
+### 3. Check the the game-specific configurations
+Depending on the game, you may have to edit the settings before the player works. Follow the instructions provided in the player. <br/>
+<img src="RacingBhaptics3.gif" alt="RacingbHaptics3" border="0" />
 
-<img src="https://i.ibb.co/tLJwPQF/race2.jpg" alt="race2" border="0" />
 
-### 3. Click on the Start button and make sure bhaptics players status is green
+### 4. Launch the one of the supported  games and select the game on Racing Game Bhaptics
+Launch the one of the supported games and select the game on Racing Game Bhaptics.<br/>
+<img src = "RacingBhaptics2.gif" alt="RacingbHaptics2" border="0" />
 
-<img src="https://i.ibb.co/9btKsfT/race3.jpg" alt="race3" border="0" />
+
+### 5. Click on the Start button
+Click on the start button. Wait until the player says "Running and Ready to go".<br/>
+<img src="RacingBhaptics.gif" alt="RacingbHaptics" border="0" />
 
